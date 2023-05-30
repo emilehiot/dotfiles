@@ -105,3 +105,6 @@ eval "$(starship init zsh)"
 
 # ASDF Configuration
 . /opt/homebrew/opt/asdf/libexec/asdf.sh
+
+# enable shell completion op
+eval "$(op completion zsh)"; compdef _op op
