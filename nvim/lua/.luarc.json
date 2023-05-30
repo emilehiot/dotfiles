@@ -1,0 +1,28 @@
+{
+    "workspace.library": [
+        "/Users/emile/.config/nvim",
+        "/Users/emile/.local/share/nvim/lazy/lazy.nvim",
+        "/Users/emile/.local/share/nvim/lazy/rust-tools.nvim",
+        "/Users/emile/.local/share/nvim/lazy/mason-lspconfig.nvim",
+        "/Users/emile/.local/share/nvim/lazy/mason.nvim",
+        "/Users/emile/.local/share/nvim/lazy/nvim-lspconfig",
+        "/Users/emile/.local/share/nvim/lazy/nvim-web-devicons",
+        "/Users/emile/.local/share/nvim/lazy/plenary.nvim",
+        "/Users/emile/.local/share/nvim/lazy/telescope-file-browser.nvim",
+        "/Users/emile/.local/share/nvim/lazy/telescope.nvim",
+        "/Users/emile/.local/share/nvim/lazy/catppuccin",
+        "/Users/emile/.local/share/nvim/lazy/cmp_luasnip",
+        "/Users/emile/.local/share/nvim/lazy/cmp-nvim-lsp",
+        "/Users/emile/.local/share/nvim/lazy/LuaSnip",
+        "/Users/emile/.local/share/nvim/lazy/nvim-cmp",
+        "/Users/emile/.local/share/nvim/lazy/nvim-ts-autotag",
+        "/Users/emile/.local/share/nvim/lazy/nvim-treesitter",
+        "/Users/emile/.asdf/installs/neovim/0.9.0/share/nvim/runtime",
+        "/Users/emile/.asdf/installs/neovim/0.9.0/lib/nvim",
+        "/Users/emile/.local/state/nvim/lazy/readme",
+        "/Users/emile/.local/share/nvim/lazy/catppuccin/after",
+        "/Users/emile/.local/share/nvim/lazy/cmp_luasnip/after",
+        "/Users/emile/.local/share/nvim/lazy/cmp-nvim-lsp/after",
+        "${3rd}/luassert/library"
+    ]
+}
