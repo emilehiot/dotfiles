@@ -1,1 +1,0 @@
-Ce dossier pourrait contenir des fichiers Lua spécifiques à la configuration de certains plugins. Par exemple, si vous avez un plugin treesitter et que vous souhaitez le configurer spécifiquement, vous pourriez avoir un fichier treesitter.lua dans ce dossier.

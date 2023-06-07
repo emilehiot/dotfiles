@@ -1,3 +1,0 @@
-return {
-  'manzeloth/live-server'
-}
