@@ -108,3 +108,4 @@ eval "$(starship init zsh)"
 
 # enable shell completion op
 eval "$(op completion zsh)"; compdef _op op
+
